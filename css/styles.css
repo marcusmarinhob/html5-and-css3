@@ -1,3 +1,16 @@
 body{
     background: whitesmoke;
 }
+
+h1{
+    color: purple;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+p{
+    font-size: 18px;
+}
